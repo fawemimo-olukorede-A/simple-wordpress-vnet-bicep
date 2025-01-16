@@ -27,8 +27,7 @@ param vnetSettings = [
       addressPrefix: '10.0.64.0/18'
     }
   ]
-  //resourceGroupName: 'SAP-RG'
-  //subscriptionID: '6bb6e027-47ca-4088-8ba8-0f027066e7b7'
+ 
 }
 {
   addressPrefixes: [
@@ -48,7 +47,6 @@ param vnetSettings = [
       addressPrefix: '10.0.64.0/18'
     }
   ]
-  //resourceGroupName: 'ugwulo.codes'
-  //subscriptionID: '8c67470f-7b3b-4cfa-9296-dd120f0da9bf'
+
 }
 ]
